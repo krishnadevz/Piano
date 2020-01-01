@@ -6,7 +6,7 @@
 <a href="https://twitter.com/krishna_9918/status/1212056086724788224" target_blank="" >Project Working View With Sound</a>
 
 # Project View and Working Below You Can't Get the sound of Piano For that you have to run it on Your browser⬇
-# You can Star(⭐) Repo OR Fork it's Upto You As always God bless You All Tribute To Thebeatles And John Lennon Paul George
+# You can Star(⭐) Repo OR Fork it's Upto You As always God bless You All Tribute To Thebeatles And John Lennon Paul George Ringostar
 <br>
 <img src="https://github.com/krishnakakade1999/Piano/blob/master/piano.gif" alt="one">
 
