@@ -12,11 +12,11 @@
 
 ## Author
 
-  * **Krishna kakade**  - [krishnakakade1999](https://github.com/krishnakakade1999)
+* **Krishna kakade**  - [krishnadevz](https://github.com/krishnadevz)
 
   <br>
  <b>Follow Me On twitter For regular Updates 
-<a href="https://twitter.com/krishna_9918" target_blank="" <b>krishnakakade</b></a>
+<a href="https://twitter.com/krishnadevz" target_blank="" <b>krishnakakade</b></a>
  <br>
  
  # For More details You Can Go Through LinebyLine in Code/Script This is it for 2019
